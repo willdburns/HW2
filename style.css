@@ -52,6 +52,11 @@
     place-items: center;
 }
 
+.header a{
+    text-decoration: none;
+    color: black;
+}
+
 .content{
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
