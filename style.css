@@ -7,6 +7,7 @@
 .header{
     height: 100px;
     font-family:'Playfair Display', serif;
+    text-decoration: none;
     background-color: #F8F7F4;
     display: grid;
     grid-template-rows: 1fr;
